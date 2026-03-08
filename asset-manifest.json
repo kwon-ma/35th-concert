@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.js": "/35th-concert/static/js/main.4e95ea42.js",
-    "static/media/poster1.jpg": "/35th-concert/static/media/poster1.8341ecc8f7c62da30168.jpg",
+    "main.js": "/35th-concert/static/js/main.8b661f2a.js",
     "index.html": "/35th-concert/index.html",
-    "main.4e95ea42.js.map": "/35th-concert/static/js/main.4e95ea42.js.map"
+    "main.8b661f2a.js.map": "/35th-concert/static/js/main.8b661f2a.js.map"
   },
   "entrypoints": [
-    "static/js/main.4e95ea42.js"
+    "static/js/main.8b661f2a.js"
   ]
 }
